@@ -1,0 +1,5 @@
+[05-Mar-2017 03:02:47 America/Chicago] PHP Fatal error:  Class 'App\User\Connection' not found in /home3/saicgroup/public_html/saicmedical.edu.bd/hamidanursing/src/user/User.php on line 17
+[05-Mar-2017 03:03:27 America/Chicago] PHP Parse error:  syntax error, unexpected 'namespace' (T_NAMESPACE) in /home3/saicgroup/public_html/saicmedical.edu.bd/hamidanursing/src/course/Course.php on line 2
+[05-Mar-2017 03:03:34 America/Chicago] PHP Parse error:  syntax error, unexpected 'namespace' (T_NAMESPACE) in /home3/saicgroup/public_html/saicmedical.edu.bd/hamidanursing/src/course/Course.php on line 2
+[05-Mar-2017 03:06:56 America/Chicago] PHP Parse error:  syntax error, unexpected 'namespace' (T_NAMESPACE) in /home3/saicgroup/public_html/saicmedical.edu.bd/hamidanursing/src/course/Course.php on line 2
+[05-Mar-2017 03:10:21 America/Chicago] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home3/saicgroup/public_html/saicmedical.edu.bd/hamidanursing/view/home/logout.php:2) in /home3/saicgroup/public_html/saicmedical.edu.bd/hamidanursing/view/home/logout.php on line 5

@@ -1,0 +1,118 @@
+[07-Feb-2018 08:17:04 America/Chicago] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home3/saicgroup/public_html/anowaranursingcollege.edu.bd/jnisoft/vendor/dompdf/dompdf/src/LineBox.php on line 172
+[09-Feb-2018 22:55:08 America/Chicago] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home3/saicgroup/public_html/anowaranursingcollege.edu.bd/jnisoft/vendor/dompdf/dompdf/src/FrameDecorator/AbstractFrameDecorator.php on line 467
+[09-Feb-2018 22:55:53 America/Chicago] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home3/saicgroup/public_html/anowaranursingcollege.edu.bd/jnisoft/vendor/dompdf/dompdf/src/Frame.php on line 325
+[04-Mar-2018 22:04:52 America/Chicago] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home3/saicgroup/public_html/anowaranursingcollege.edu.bd/jnisoft/vendor/dompdf/dompdf/src/Frame.php on line 407
+[24-Mar-2018 02:22:47 America/Chicago] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home3/saicgroup/public_html/anowaranursingcollege.edu.bd/jnisoft/vendor/dompdf/dompdf/src/Css/Style.php on line 518
+[24-Mar-2018 03:10:07 America/Chicago] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home3/saicgroup/public_html/anowaranursingcollege.edu.bd/jnisoft/vendor/dompdf/dompdf/src/Renderer/Text.php on line 105
+[13-Aug-2018 03:55:53 UTC] PHP Fatal error:  Uncaught Dompdf\Exception: No block-level parent found.  Not good. in /home/saicgroup/public_html/anowaranursingcollege.edu.bd/jnisoft/vendor/dompdf/dompdf/src/Positioner/Inline.php:45
+Stack trace:
+#0 /home/saicgroup/public_html/anowaranursingcollege.edu.bd/jnisoft/vendor/dompdf/dompdf/src/FrameDecorator/AbstractFrameDecorator.php(872): Dompdf\Positioner\Inline->position(Object(Dompdf\FrameDecorator\Text))
+#1 /home/saicgroup/public_html/anowaranursingcollege.edu.bd/jnisoft/vendor/dompdf/dompdf/src/FrameReflower/Text.php(368): Dompdf\FrameDecorator\AbstractFrameDecorator->position()
+#2 /home/saicgroup/public_html/anowaranursingcollege.edu.bd/jnisoft/vendor/dompdf/dompdf/src/FrameDecorator/AbstractFrameDecorator.php(893): Dompdf\FrameReflower\Text->reflow(NULL)
+#3 /home/saicgroup/public_html/anowaranursingcollege.edu.bd/jnisoft/vendor/dompdf/dompdf/src/FrameReflower/Page.php(141): Dompdf\FrameDecorator\AbstractFrameDecorator->reflow()
+#4 /home/saicgroup/public_html/anowaranursingcollege.edu.bd/jnisoft/vendor/do in /home/saicgroup/public_html/anowaranursingcollege.edu.bd/jnisoft/vendor/dompdf/dompdf/src/Positioner/Inline.php on line 45
+[13-Aug-2018 03:56:34 UTC] PHP Fatal error:  Uncaught Dompdf\Exception: No block-level parent found.  Not good. in /home/saicgroup/public_html/anowaranursingcollege.edu.bd/jnisoft/vendor/dompdf/dompdf/src/Positioner/Inline.php:45
+Stack trace:
+#0 /home/saicgroup/public_html/anowaranursingcollege.edu.bd/jnisoft/vendor/dompdf/dompdf/src/FrameDecorator/AbstractFrameDecorator.php(872): Dompdf\Positioner\Inline->position(Object(Dompdf\FrameDecorator\Text))
+#1 /home/saicgroup/public_html/anowaranursingcollege.edu.bd/jnisoft/vendor/dompdf/dompdf/src/FrameReflower/Text.php(368): Dompdf\FrameDecorator\AbstractFrameDecorator->position()
+#2 /home/saicgroup/public_html/anowaranursingcollege.edu.bd/jnisoft/vendor/dompdf/dompdf/src/FrameDecorator/AbstractFrameDecorator.php(893): Dompdf\FrameReflower\Text->reflow(NULL)
+#3 /home/saicgroup/public_html/anowaranursingcollege.edu.bd/jnisoft/vendor/dompdf/dompdf/src/FrameReflower/Page.php(141): Dompdf\FrameDecorator\AbstractFrameDecorator->reflow()
+#4 /home/saicgroup/public_html/anowaranursingcollege.edu.bd/jnisoft/vendor/do in /home/saicgroup/public_html/anowaranursingcollege.edu.bd/jnisoft/vendor/dompdf/dompdf/src/Positioner/Inline.php on line 45
+[15-Aug-2018 03:41:10 UTC] PHP Fatal error:  Uncaught Dompdf\Exception: No block-level parent found.  Not good. in /home/saicgroup/public_html/anowaranursingcollege.edu.bd/jnisoft/vendor/dompdf/dompdf/src/Positioner/Inline.php:45
+Stack trace:
+#0 /home/saicgroup/public_html/anowaranursingcollege.edu.bd/jnisoft/vendor/dompdf/dompdf/src/FrameDecorator/AbstractFrameDecorator.php(872): Dompdf\Positioner\Inline->position(Object(Dompdf\FrameDecorator\Text))
+#1 /home/saicgroup/public_html/anowaranursingcollege.edu.bd/jnisoft/vendor/dompdf/dompdf/src/FrameReflower/Text.php(368): Dompdf\FrameDecorator\AbstractFrameDecorator->position()
+#2 /home/saicgroup/public_html/anowaranursingcollege.edu.bd/jnisoft/vendor/dompdf/dompdf/src/FrameDecorator/AbstractFrameDecorator.php(893): Dompdf\FrameReflower\Text->reflow(NULL)
+#3 /home/saicgroup/public_html/anowaranursingcollege.edu.bd/jnisoft/vendor/dompdf/dompdf/src/FrameReflower/Page.php(141): Dompdf\FrameDecorator\AbstractFrameDecorator->reflow()
+#4 /home/saicgroup/public_html/anowaranursingcollege.edu.bd/jnisoft/vendor/do in /home/saicgroup/public_html/anowaranursingcollege.edu.bd/jnisoft/vendor/dompdf/dompdf/src/Positioner/Inline.php on line 45
+[15-Aug-2018 03:43:13 UTC] PHP Fatal error:  Uncaught Dompdf\Exception: No block-level parent found.  Not good. in /home/saicgroup/public_html/anowaranursingcollege.edu.bd/jnisoft/vendor/dompdf/dompdf/src/Positioner/Inline.php:45
+Stack trace:
+#0 /home/saicgroup/public_html/anowaranursingcollege.edu.bd/jnisoft/vendor/dompdf/dompdf/src/FrameDecorator/AbstractFrameDecorator.php(872): Dompdf\Positioner\Inline->position(Object(Dompdf\FrameDecorator\Text))
+#1 /home/saicgroup/public_html/anowaranursingcollege.edu.bd/jnisoft/vendor/dompdf/dompdf/src/FrameReflower/Text.php(368): Dompdf\FrameDecorator\AbstractFrameDecorator->position()
+#2 /home/saicgroup/public_html/anowaranursingcollege.edu.bd/jnisoft/vendor/dompdf/dompdf/src/FrameDecorator/AbstractFrameDecorator.php(893): Dompdf\FrameReflower\Text->reflow(NULL)
+#3 /home/saicgroup/public_html/anowaranursingcollege.edu.bd/jnisoft/vendor/dompdf/dompdf/src/FrameReflower/Page.php(141): Dompdf\FrameDecorator\AbstractFrameDecorator->reflow()
+#4 /home/saicgroup/public_html/anowaranursingcollege.edu.bd/jnisoft/vendor/do in /home/saicgroup/public_html/anowaranursingcollege.edu.bd/jnisoft/vendor/dompdf/dompdf/src/Positioner/Inline.php on line 45
+[15-Aug-2018 03:46:27 UTC] PHP Fatal error:  Uncaught Dompdf\Exception: No block-level parent found.  Not good. in /home/saicgroup/public_html/anowaranursingcollege.edu.bd/jnisoft/vendor/dompdf/dompdf/src/Positioner/Inline.php:45
+Stack trace:
+#0 /home/saicgroup/public_html/anowaranursingcollege.edu.bd/jnisoft/vendor/dompdf/dompdf/src/FrameDecorator/AbstractFrameDecorator.php(872): Dompdf\Positioner\Inline->position(Object(Dompdf\FrameDecorator\Text))
+#1 /home/saicgroup/public_html/anowaranursingcollege.edu.bd/jnisoft/vendor/dompdf/dompdf/src/FrameReflower/Text.php(368): Dompdf\FrameDecorator\AbstractFrameDecorator->position()
+#2 /home/saicgroup/public_html/anowaranursingcollege.edu.bd/jnisoft/vendor/dompdf/dompdf/src/FrameDecorator/AbstractFrameDecorator.php(893): Dompdf\FrameReflower\Text->reflow(NULL)
+#3 /home/saicgroup/public_html/anowaranursingcollege.edu.bd/jnisoft/vendor/dompdf/dompdf/src/FrameReflower/Page.php(141): Dompdf\FrameDecorator\AbstractFrameDecorator->reflow()
+#4 /home/saicgroup/public_html/anowaranursingcollege.edu.bd/jnisoft/vendor/do in /home/saicgroup/public_html/anowaranursingcollege.edu.bd/jnisoft/vendor/dompdf/dompdf/src/Positioner/Inline.php on line 45
+[15-Aug-2018 03:46:52 UTC] PHP Fatal error:  Uncaught Dompdf\Exception: No block-level parent found.  Not good. in /home/saicgroup/public_html/anowaranursingcollege.edu.bd/jnisoft/vendor/dompdf/dompdf/src/Positioner/Inline.php:45
+Stack trace:
+#0 /home/saicgroup/public_html/anowaranursingcollege.edu.bd/jnisoft/vendor/dompdf/dompdf/src/FrameDecorator/AbstractFrameDecorator.php(872): Dompdf\Positioner\Inline->position(Object(Dompdf\FrameDecorator\Text))
+#1 /home/saicgroup/public_html/anowaranursingcollege.edu.bd/jnisoft/vendor/dompdf/dompdf/src/FrameReflower/Text.php(368): Dompdf\FrameDecorator\AbstractFrameDecorator->position()
+#2 /home/saicgroup/public_html/anowaranursingcollege.edu.bd/jnisoft/vendor/dompdf/dompdf/src/FrameDecorator/AbstractFrameDecorator.php(893): Dompdf\FrameReflower\Text->reflow(NULL)
+#3 /home/saicgroup/public_html/anowaranursingcollege.edu.bd/jnisoft/vendor/dompdf/dompdf/src/FrameReflower/Page.php(141): Dompdf\FrameDecorator\AbstractFrameDecorator->reflow()
+#4 /home/saicgroup/public_html/anowaranursingcollege.edu.bd/jnisoft/vendor/do in /home/saicgroup/public_html/anowaranursingcollege.edu.bd/jnisoft/vendor/dompdf/dompdf/src/Positioner/Inline.php on line 45
+[15-Aug-2018 03:51:24 UTC] PHP Fatal error:  Uncaught Dompdf\Exception: No block-level parent found.  Not good. in /home/saicgroup/public_html/anowaranursingcollege.edu.bd/jnisoft/vendor/dompdf/dompdf/src/Positioner/Inline.php:45
+Stack trace:
+#0 /home/saicgroup/public_html/anowaranursingcollege.edu.bd/jnisoft/vendor/dompdf/dompdf/src/FrameDecorator/AbstractFrameDecorator.php(872): Dompdf\Positioner\Inline->position(Object(Dompdf\FrameDecorator\Text))
+#1 /home/saicgroup/public_html/anowaranursingcollege.edu.bd/jnisoft/vendor/dompdf/dompdf/src/FrameReflower/Text.php(368): Dompdf\FrameDecorator\AbstractFrameDecorator->position()
+#2 /home/saicgroup/public_html/anowaranursingcollege.edu.bd/jnisoft/vendor/dompdf/dompdf/src/FrameDecorator/AbstractFrameDecorator.php(893): Dompdf\FrameReflower\Text->reflow(NULL)
+#3 /home/saicgroup/public_html/anowaranursingcollege.edu.bd/jnisoft/vendor/dompdf/dompdf/src/FrameReflower/Page.php(141): Dompdf\FrameDecorator\AbstractFrameDecorator->reflow()
+#4 /home/saicgroup/public_html/anowaranursingcollege.edu.bd/jnisoft/vendor/do in /home/saicgroup/public_html/anowaranursingcollege.edu.bd/jnisoft/vendor/dompdf/dompdf/src/Positioner/Inline.php on line 45
+[27-Aug-2018 06:37:53 UTC] PHP Fatal error:  Uncaught Dompdf\Exception: No block-level parent found.  Not good. in /home/saicgroup/public_html/anowaranursingcollege.edu.bd/jnisoft/vendor/dompdf/dompdf/src/Positioner/Inline.php:45
+Stack trace:
+#0 /home/saicgroup/public_html/anowaranursingcollege.edu.bd/jnisoft/vendor/dompdf/dompdf/src/FrameDecorator/AbstractFrameDecorator.php(872): Dompdf\Positioner\Inline->position(Object(Dompdf\FrameDecorator\Text))
+#1 /home/saicgroup/public_html/anowaranursingcollege.edu.bd/jnisoft/vendor/dompdf/dompdf/src/FrameReflower/Text.php(368): Dompdf\FrameDecorator\AbstractFrameDecorator->position()
+#2 /home/saicgroup/public_html/anowaranursingcollege.edu.bd/jnisoft/vendor/dompdf/dompdf/src/FrameDecorator/AbstractFrameDecorator.php(893): Dompdf\FrameReflower\Text->reflow(NULL)
+#3 /home/saicgroup/public_html/anowaranursingcollege.edu.bd/jnisoft/vendor/dompdf/dompdf/src/FrameReflower/Page.php(141): Dompdf\FrameDecorator\AbstractFrameDecorator->reflow()
+#4 /home/saicgroup/public_html/anowaranursingcollege.edu.bd/jnisoft/vendor/do in /home/saicgroup/public_html/anowaranursingcollege.edu.bd/jnisoft/vendor/dompdf/dompdf/src/Positioner/Inline.php on line 45
+[27-Aug-2018 06:38:14 UTC] PHP Fatal error:  Uncaught Dompdf\Exception: No block-level parent found.  Not good. in /home/saicgroup/public_html/anowaranursingcollege.edu.bd/jnisoft/vendor/dompdf/dompdf/src/Positioner/Inline.php:45
+Stack trace:
+#0 /home/saicgroup/public_html/anowaranursingcollege.edu.bd/jnisoft/vendor/dompdf/dompdf/src/FrameDecorator/AbstractFrameDecorator.php(872): Dompdf\Positioner\Inline->position(Object(Dompdf\FrameDecorator\Text))
+#1 /home/saicgroup/public_html/anowaranursingcollege.edu.bd/jnisoft/vendor/dompdf/dompdf/src/FrameReflower/Text.php(368): Dompdf\FrameDecorator\AbstractFrameDecorator->position()
+#2 /home/saicgroup/public_html/anowaranursingcollege.edu.bd/jnisoft/vendor/dompdf/dompdf/src/FrameDecorator/AbstractFrameDecorator.php(893): Dompdf\FrameReflower\Text->reflow(NULL)
+#3 /home/saicgroup/public_html/anowaranursingcollege.edu.bd/jnisoft/vendor/dompdf/dompdf/src/FrameReflower/Page.php(141): Dompdf\FrameDecorator\AbstractFrameDecorator->reflow()
+#4 /home/saicgroup/public_html/anowaranursingcollege.edu.bd/jnisoft/vendor/do in /home/saicgroup/public_html/anowaranursingcollege.edu.bd/jnisoft/vendor/dompdf/dompdf/src/Positioner/Inline.php on line 45
+[27-Aug-2018 06:39:14 UTC] PHP Fatal error:  Uncaught Dompdf\Exception: No block-level parent found.  Not good. in /home/saicgroup/public_html/anowaranursingcollege.edu.bd/jnisoft/vendor/dompdf/dompdf/src/Positioner/Inline.php:45
+Stack trace:
+#0 /home/saicgroup/public_html/anowaranursingcollege.edu.bd/jnisoft/vendor/dompdf/dompdf/src/FrameDecorator/AbstractFrameDecorator.php(872): Dompdf\Positioner\Inline->position(Object(Dompdf\FrameDecorator\Text))
+#1 /home/saicgroup/public_html/anowaranursingcollege.edu.bd/jnisoft/vendor/dompdf/dompdf/src/FrameReflower/Text.php(368): Dompdf\FrameDecorator\AbstractFrameDecorator->position()
+#2 /home/saicgroup/public_html/anowaranursingcollege.edu.bd/jnisoft/vendor/dompdf/dompdf/src/FrameDecorator/AbstractFrameDecorator.php(893): Dompdf\FrameReflower\Text->reflow(NULL)
+#3 /home/saicgroup/public_html/anowaranursingcollege.edu.bd/jnisoft/vendor/dompdf/dompdf/src/FrameReflower/Page.php(141): Dompdf\FrameDecorator\AbstractFrameDecorator->reflow()
+#4 /home/saicgroup/public_html/anowaranursingcollege.edu.bd/jnisoft/vendor/do in /home/saicgroup/public_html/anowaranursingcollege.edu.bd/jnisoft/vendor/dompdf/dompdf/src/Positioner/Inline.php on line 45
+[27-Aug-2018 07:45:34 UTC] PHP Fatal error:  Uncaught Dompdf\Exception: No block-level parent found.  Not good. in /home/saicgroup/public_html/anowaranursingcollege.edu.bd/jnisoft/vendor/dompdf/dompdf/src/Positioner/Inline.php:45
+Stack trace:
+#0 /home/saicgroup/public_html/anowaranursingcollege.edu.bd/jnisoft/vendor/dompdf/dompdf/src/FrameDecorator/AbstractFrameDecorator.php(872): Dompdf\Positioner\Inline->position(Object(Dompdf\FrameDecorator\Text))
+#1 /home/saicgroup/public_html/anowaranursingcollege.edu.bd/jnisoft/vendor/dompdf/dompdf/src/FrameReflower/Text.php(368): Dompdf\FrameDecorator\AbstractFrameDecorator->position()
+#2 /home/saicgroup/public_html/anowaranursingcollege.edu.bd/jnisoft/vendor/dompdf/dompdf/src/FrameDecorator/AbstractFrameDecorator.php(893): Dompdf\FrameReflower\Text->reflow(NULL)
+#3 /home/saicgroup/public_html/anowaranursingcollege.edu.bd/jnisoft/vendor/dompdf/dompdf/src/FrameReflower/Page.php(141): Dompdf\FrameDecorator\AbstractFrameDecorator->reflow()
+#4 /home/saicgroup/public_html/anowaranursingcollege.edu.bd/jnisoft/vendor/do in /home/saicgroup/public_html/anowaranursingcollege.edu.bd/jnisoft/vendor/dompdf/dompdf/src/Positioner/Inline.php on line 45
+[27-Aug-2018 07:46:48 UTC] PHP Fatal error:  Uncaught Dompdf\Exception: No block-level parent found.  Not good. in /home/saicgroup/public_html/anowaranursingcollege.edu.bd/jnisoft/vendor/dompdf/dompdf/src/Positioner/Inline.php:45
+Stack trace:
+#0 /home/saicgroup/public_html/anowaranursingcollege.edu.bd/jnisoft/vendor/dompdf/dompdf/src/FrameDecorator/AbstractFrameDecorator.php(872): Dompdf\Positioner\Inline->position(Object(Dompdf\FrameDecorator\Text))
+#1 /home/saicgroup/public_html/anowaranursingcollege.edu.bd/jnisoft/vendor/dompdf/dompdf/src/FrameReflower/Text.php(368): Dompdf\FrameDecorator\AbstractFrameDecorator->position()
+#2 /home/saicgroup/public_html/anowaranursingcollege.edu.bd/jnisoft/vendor/dompdf/dompdf/src/FrameDecorator/AbstractFrameDecorator.php(893): Dompdf\FrameReflower\Text->reflow(NULL)
+#3 /home/saicgroup/public_html/anowaranursingcollege.edu.bd/jnisoft/vendor/dompdf/dompdf/src/FrameReflower/Page.php(141): Dompdf\FrameDecorator\AbstractFrameDecorator->reflow()
+#4 /home/saicgroup/public_html/anowaranursingcollege.edu.bd/jnisoft/vendor/do in /home/saicgroup/public_html/anowaranursingcollege.edu.bd/jnisoft/vendor/dompdf/dompdf/src/Positioner/Inline.php on line 45
+[11-Dec-2018 04:46:20 UTC] PHP Fatal error:  Uncaught Dompdf\Exception: No block-level parent found.  Not good. in /home/saicgroup/public_html/anowaranursingcollege.edu.bd/jnisoft/vendor/dompdf/dompdf/src/Positioner/Inline.php:45
+Stack trace:
+#0 /home/saicgroup/public_html/anowaranursingcollege.edu.bd/jnisoft/vendor/dompdf/dompdf/src/FrameDecorator/AbstractFrameDecorator.php(872): Dompdf\Positioner\Inline->position(Object(Dompdf\FrameDecorator\Text))
+#1 /home/saicgroup/public_html/anowaranursingcollege.edu.bd/jnisoft/vendor/dompdf/dompdf/src/FrameReflower/Text.php(368): Dompdf\FrameDecorator\AbstractFrameDecorator->position()
+#2 /home/saicgroup/public_html/anowaranursingcollege.edu.bd/jnisoft/vendor/dompdf/dompdf/src/FrameDecorator/AbstractFrameDecorator.php(893): Dompdf\FrameReflower\Text->reflow(NULL)
+#3 /home/saicgroup/public_html/anowaranursingcollege.edu.bd/jnisoft/vendor/dompdf/dompdf/src/FrameReflower/Page.php(141): Dompdf\FrameDecorator\AbstractFrameDecorator->reflow()
+#4 /home/saicgroup/public_html/anowaranursingcollege.edu.bd/jnisoft/vendor/do in /home/saicgroup/public_html/anowaranursingcollege.edu.bd/jnisoft/vendor/dompdf/dompdf/src/Positioner/Inline.php on line 45
+[11-Dec-2018 04:47:07 UTC] PHP Fatal error:  Uncaught Dompdf\Exception: No block-level parent found.  Not good. in /home/saicgroup/public_html/anowaranursingcollege.edu.bd/jnisoft/vendor/dompdf/dompdf/src/Positioner/Inline.php:45
+Stack trace:
+#0 /home/saicgroup/public_html/anowaranursingcollege.edu.bd/jnisoft/vendor/dompdf/dompdf/src/FrameDecorator/AbstractFrameDecorator.php(872): Dompdf\Positioner\Inline->position(Object(Dompdf\FrameDecorator\Text))
+#1 /home/saicgroup/public_html/anowaranursingcollege.edu.bd/jnisoft/vendor/dompdf/dompdf/src/FrameReflower/Text.php(368): Dompdf\FrameDecorator\AbstractFrameDecorator->position()
+#2 /home/saicgroup/public_html/anowaranursingcollege.edu.bd/jnisoft/vendor/dompdf/dompdf/src/FrameDecorator/AbstractFrameDecorator.php(893): Dompdf\FrameReflower\Text->reflow(NULL)
+#3 /home/saicgroup/public_html/anowaranursingcollege.edu.bd/jnisoft/vendor/dompdf/dompdf/src/FrameReflower/Page.php(141): Dompdf\FrameDecorator\AbstractFrameDecorator->reflow()
+#4 /home/saicgroup/public_html/anowaranursingcollege.edu.bd/jnisoft/vendor/do in /home/saicgroup/public_html/anowaranursingcollege.edu.bd/jnisoft/vendor/dompdf/dompdf/src/Positioner/Inline.php on line 45
+[11-Dec-2018 04:48:31 UTC] PHP Fatal error:  Uncaught Dompdf\Exception: No block-level parent found.  Not good. in /home/saicgroup/public_html/anowaranursingcollege.edu.bd/jnisoft/vendor/dompdf/dompdf/src/Positioner/Inline.php:45
+Stack trace:
+#0 /home/saicgroup/public_html/anowaranursingcollege.edu.bd/jnisoft/vendor/dompdf/dompdf/src/FrameDecorator/AbstractFrameDecorator.php(872): Dompdf\Positioner\Inline->position(Object(Dompdf\FrameDecorator\Text))
+#1 /home/saicgroup/public_html/anowaranursingcollege.edu.bd/jnisoft/vendor/dompdf/dompdf/src/FrameReflower/Text.php(368): Dompdf\FrameDecorator\AbstractFrameDecorator->position()
+#2 /home/saicgroup/public_html/anowaranursingcollege.edu.bd/jnisoft/vendor/dompdf/dompdf/src/FrameDecorator/AbstractFrameDecorator.php(893): Dompdf\FrameReflower\Text->reflow(NULL)
+#3 /home/saicgroup/public_html/anowaranursingcollege.edu.bd/jnisoft/vendor/dompdf/dompdf/src/FrameReflower/Page.php(141): Dompdf\FrameDecorator\AbstractFrameDecorator->reflow()
+#4 /home/saicgroup/public_html/anowaranursingcollege.edu.bd/jnisoft/vendor/do in /home/saicgroup/public_html/anowaranursingcollege.edu.bd/jnisoft/vendor/dompdf/dompdf/src/Positioner/Inline.php on line 45
+[17-Dec-2018 10:08:22 UTC] PHP Fatal error:  Uncaught Dompdf\Exception: No block-level parent found.  Not good. in /home/saicgroup/public_html/anowaranursingcollege.edu.bd/jnisoft/vendor/dompdf/dompdf/src/Positioner/Inline.php:45
+Stack trace:
+#0 /home/saicgroup/public_html/anowaranursingcollege.edu.bd/jnisoft/vendor/dompdf/dompdf/src/FrameDecorator/AbstractFrameDecorator.php(872): Dompdf\Positioner\Inline->position(Object(Dompdf\FrameDecorator\Text))
+#1 /home/saicgroup/public_html/anowaranursingcollege.edu.bd/jnisoft/vendor/dompdf/dompdf/src/FrameReflower/Text.php(368): Dompdf\FrameDecorator\AbstractFrameDecorator->position()
+#2 /home/saicgroup/public_html/anowaranursingcollege.edu.bd/jnisoft/vendor/dompdf/dompdf/src/FrameDecorator/AbstractFrameDecorator.php(893): Dompdf\FrameReflower\Text->reflow(NULL)
+#3 /home/saicgroup/public_html/anowaranursingcollege.edu.bd/jnisoft/vendor/dompdf/dompdf/src/FrameReflower/Page.php(141): Dompdf\FrameDecorator\AbstractFrameDecorator->reflow()
+#4 /home/saicgroup/public_html/anowaranursingcollege.edu.bd/jnisoft/vendor/do in /home/saicgroup/public_html/anowaranursingcollege.edu.bd/jnisoft/vendor/dompdf/dompdf/src/Positioner/Inline.php on line 45

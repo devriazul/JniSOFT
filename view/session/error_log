@@ -1,0 +1,4 @@
+[05-Mar-2017 17:37:48 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home3/saicgroup/public_html/saicmedical.edu.bd/hamidanursing/view/session/_store.php on line 39
+[07-Mar-2017 01:03:07 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home3/saicgroup/public_html/saicmedical.edu.bd/hamidanursing/view/session/_store.php on line 39
+[18-Dec-2017 03:45:07 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home3/saicgroup/public_html/anowaranursingcollege.edu.bd/ancsoft/view/session/_store.php on line 39
+[22-Jan-2018 02:18:37 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home3/saicgroup/public_html/anowaranursingcollege.edu.bd/jnisoft/view/session/_store.php on line 39
